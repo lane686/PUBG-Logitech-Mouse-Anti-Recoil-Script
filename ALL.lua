@@ -4,22 +4,22 @@
 
 
 --akm*  or groza mini14 sks on/off
-akm_key = 4
+akm_key = 7
 
 --m16*  or p1911 s686 on/off
-m16_key = 5
+m16_key = 8
 
 --m4* or scar on/off
-m4_key = 11
+m4_key = 4
 
 --scar-l  on/off
-scar_key = 10
+scar_key = 5
 
 --ump9* or p92  on/off
-ump9_key = 7
+ump9_key = 3
 
 --uzi  on/off
-uzi_key = 8
+uzi_key = 9
 
 --mini14  on/off
 mini_key = nil
@@ -39,7 +39,7 @@ transverseparking_key = nil
 flutter_key = nil
 
 --自动右倾开关:
-rightdeviation_key = 9
+rightdeviation_key = nil
 
 
 
